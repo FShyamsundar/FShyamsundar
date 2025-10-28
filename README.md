@@ -61,45 +61,6 @@ St. Joseph's College of Engineering, Chennai
 
 </div>
 
----
-
-## 🏆 Featured Projects
-
-### 🎬 [Project Name 1]
-**Tech:** MongoDB | Express | React | Node.js  
-A [brief description of what the project does and problem it solves]
-
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
-
-🔗 [Live Demo](#) | 💻 [Source Code](#)
-
----
-
-### 🛒 [Project Name 2]
-**Tech:** React | Node.js | Express | MongoDB  
-[Brief description of project]
-
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
-
-🔗 [Live Demo](#) | 💻 [Source Code](#)
-
----
-
-### 📱 [Project Name 3]
-**Tech:** MERN Stack  
-[Brief description of project]
-
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
-
-🔗 [Live Demo](#) | 💻 [Source Code](#)
-
----
 
 ## 📊 GitHub Stats
 
@@ -156,6 +117,6 @@ I'm actively seeking opportunities to contribute to innovative projects and grow
   
 ### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=FShyamsundar&color=brightgreen)
 
 </div>
